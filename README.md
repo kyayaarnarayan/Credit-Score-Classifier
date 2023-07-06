@@ -73,4 +73,3 @@ Contributions to this repository are welcome. If you want to contribute to the p
 ## License
 This project is licensed under the [GNU License](./LICENSE). Feel free to modify and use the code as per the license terms.
 
->This project was developed for learning purposes as part of the CSE343-Machine Learning, Monsoon 2022 semester, Project at IIITD under the supervision of [Prof. Jainendra Shukla](https://www.iiitd.ac.in/jainendra).
